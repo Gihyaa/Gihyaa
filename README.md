@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-<a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a>
+<a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="84px" height="84px" alt="hellokitty_sparkle"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF80C2&height=120&section=footer"/>
