@@ -4,7 +4,7 @@
 <img height="40"> <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE03BD&size=35&center=true&vCenter=true&width=1000&lines=Hi,+there!!+I'm+Gigi;Learning+Systems+Development;Welcome+to+my+profile+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+there!!+I'm+Gigi;Learning+Systems+Development;Welcome+to+my+profile+:%29)](https://git.io/typing-svg)
 
 <div align="center">   
    <img src="https://github-profile-trophy.vercel.app/?username=gihyaa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
