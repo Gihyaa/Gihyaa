@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF80C2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FAE5E5&height=120&section=header"/>
 
 <div align="center">
 <img height="40"> <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
@@ -29,6 +29,6 @@
 <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="84px" height="84px" alt="hellokitty_sparkle"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF80C2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FAE5E5&height=120&section=footer"/>
 
 
